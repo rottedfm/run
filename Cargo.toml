@@ -12,3 +12,7 @@ futures = "0.3.31"
 ratatui = "0.29.0"
 tokio = { version = "1.40.0", features = ["full"] }
 color-eyre = "0.6.3"
+serde = { version = "1.0.219", features = ["derive"] }
+toml = "0.8.20"
+shellwords = "1.1.0"
+strsim = "0.11.1"
